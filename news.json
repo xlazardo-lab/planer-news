@@ -1,5 +1,7 @@
-{
- "date": "",
- "updated": "",
- "items": []
-}
+{"date":"2026-11-05","updated":"2026-11-05T09:05:00+01:00","items":[
+{"topic":"Welt","title":"US-Zwischenwahlen: Demokraten erobern Senat und Repräsentantenhaus","url":"https://www.zdfheute.de/politik/ausland/midterms-usa-wahl-kongress-100.html","source":"ZDFheute"},
+{"topic":"DE","title":"Bayerns Wirtschaftsminister Hubert Aiwanger tot in Berliner Hotel gefunden","url":"https://www.zdfheute.de/politik/deutschland/hubert-aiwanger-tot-aufgefunden-100.html","source":"ZDFheute"},
+{"topic":"KI","title":"Anthropic versieht Texte mehrerer Claude-Modelle mit unsichtbarem Wasserzeichen","url":"https://uk.finance.yahoo.com/news/anthropic-claude-now-leave-trail-151343512.html","source":"Yahoo Finance"},
+{"topic":"Tech","title":"OpenAI-Pipeline findet 948 Root-Lücken in Linux und liefert Patches mit","url":"https://openai.com/index/a-thousand-fewer-paths-to-root/","source":"OpenAI"},
+{"topic":"Börse","title":"DAX 26.438 (+2,2 %) · Bitcoin 80.300 $ (+3,4 %) · MSCI World: kein Schlusswert","url":"https://www.finanzen.at/nachrichten/aktien/aktien-frankfurt-schluss-dax-nahert-sich-nach-us-zwischenwahlen-rekord-1036715609","source":"dpa-AFX"}
+]}
